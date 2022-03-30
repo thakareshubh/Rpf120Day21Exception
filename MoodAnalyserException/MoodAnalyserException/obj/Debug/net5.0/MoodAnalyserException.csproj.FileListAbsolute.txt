@@ -1,0 +1,16 @@
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\bin\Debug\net5.0\MoodAnalyserException.exe
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\bin\Debug\net5.0\MoodAnalyserException.deps.json
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\bin\Debug\net5.0\MoodAnalyserException.runtimeconfig.json
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\bin\Debug\net5.0\MoodAnalyserException.runtimeconfig.dev.json
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\bin\Debug\net5.0\MoodAnalyserException.dll
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\bin\Debug\net5.0\MoodAnalyserException.pdb
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\obj\Debug\net5.0\MoodAnalyserException.csproj.AssemblyReference.cache
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\obj\Debug\net5.0\MoodAnalyserException.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\obj\Debug\net5.0\MoodAnalyserException.AssemblyInfoInputs.cache
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\obj\Debug\net5.0\MoodAnalyserException.AssemblyInfo.cs
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\obj\Debug\net5.0\MoodAnalyserException.csproj.CoreCompileInputs.cache
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\obj\Debug\net5.0\MoodAnalyserException.dll
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\obj\Debug\net5.0\refint\MoodAnalyserException.dll
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\obj\Debug\net5.0\MoodAnalyserException.pdb
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\obj\Debug\net5.0\MoodAnalyserException.genruntimeconfig.cache
+E:\.net\Rpf120Day21ExceptionProblem\MoodAnalyserException\MoodAnalyserException\obj\Debug\net5.0\ref\MoodAnalyserException.dll
